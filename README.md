@@ -9,10 +9,10 @@ Bu proje, bir kafe keşif ve mobil sipariş uygulamasının Figma üzerinden haz
 
 | Giriş Ekranı | Ana Sayfa | Detay Sayfası |
 | :---: | :---: | :---: |
-| <img src="assets/login.png" width="220" /> | <img src="assets/home.png" width="220" /> | <img src="assets/detail.png" width="220" /> |
+| <img src="login.png" width="220" /> | <img src="home.png" width="220" /> | <img src="detail.png" width="220" /> |
 
 ---
 
 ## 🎨 Tasarım Sistemi (Design System)
 
-<img src="assets/design-system.png" width="700" />
+<img src="design-system.png" width="700" />
