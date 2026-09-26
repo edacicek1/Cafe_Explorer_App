@@ -9,7 +9,7 @@ Bu proje, bir kafe keşif ve mobil sipariş uygulamasının Figma üzerinden haz
 
 | Giriş Ekranı | Ana Sayfa | Detay Sayfası |
 | :---: | :---: | :---: |
-| <img src="login (5).png" width="220" /> | <img src="home (4).png" width="220" /> | <img src="detail (4).png" width="220" /> |
+| <img src="Login (5).png" width="220" /> | <img src="Home (4).png" width="220" /> | <img src="Detail (4).png" width="220" /> |
 
 ---
 
